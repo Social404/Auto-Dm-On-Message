@@ -1,2 +1,1 @@
-# Auto-Dm-On-Message
-This Awsome Tool Will Send Messages To People Who Send A Message In A Channel! Includes Captcha Bypass
+<center><p><img style="display: block; margin-left: auto; margin-right: auto;" src="./Banner.png" alt="" width=100% height=100% /></p></center>
